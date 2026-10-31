@@ -1,0 +1,12 @@
+Data Cleaning & Transformation – Power Query
+
+Data cleaning and transformation were performed using Power Query in Power BI.
+
+- Imported the sales dataset and promoted the first row as column headers.
+- Assigned appropriate data types to columns.
+- Created a custom column for additional analysis.
+- Renamed and reordered columns for better data organization.
+- Removed unnecessary columns.
+- Replaced selected values where required.
+- Extracted day names from the date column.
+- Prepared the transformed dataset for dashboard development.
