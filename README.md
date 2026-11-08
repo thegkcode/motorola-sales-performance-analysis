@@ -1,6 +1,8 @@
-# 📱 Motorola Sales Performance & Customer Insights Dashboard
+<h1 align="center">📱 Motorola Sales Performance & Customer Insights Dashboard</h1>
 
-**An Interactive Power BI Dashboard for Sales Analysis and Customer Insights**
+<p align="center">
+  <strong>An Interactive Power BI Dashboard for Sales Analysis and Customer Insights</strong>
+</p>
 
 ---
 
@@ -111,6 +113,6 @@ Computer Science Student | Aspiring Data Analyst
 
 ---
 
-<p align="center">
-  <strong>Turning Data into Insights. Insights into Better Decisions.</strong>
-</p>
+<div align="center">
+  <em><strong>Turning Data into Insights. Insights into Better Decisions.</strong></em>
+</div>
